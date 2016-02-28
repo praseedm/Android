@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaterialApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit_text">Exit</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="menu_next">next</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>
