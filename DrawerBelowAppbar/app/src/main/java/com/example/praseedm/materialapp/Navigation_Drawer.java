@@ -78,7 +78,7 @@ public class Navigation_Drawer extends Fragment {
         }
         drawerLayout.setDrawerListener(drawerToggle);
 
-        drawerLayout.post(new Runnable() {
+        drawerLayout.post(new Runnable(  ) {
             @Override
             public void run() {
                  drawerToggle.syncState();
